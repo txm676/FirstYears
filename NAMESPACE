@@ -1,2 +1,6 @@
 exportPattern("^[[:alpha:]]+")
 import("raster")
+import("sdm")
+import("stats")
+import("rgdal")
+import("usdm")
