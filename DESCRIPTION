@@ -5,7 +5,12 @@ Version: 0.1.0
 Author: TJM
 Maintainer: TJM <txm676@gmail.com>
 Description: Some WorldClim data and species distribution data
-Depends: sdm, rgdal, raster, usdm
+Depends: 
+    sdm,
+    rgdal,
+    raster,
+    usdm,
+    R (>= 2.10)
 Imports: sdm, rgdal, raster, usdm
 Encoding: UTF-8
 LazyData: true
